@@ -1,0 +1,7 @@
+﻿  pract11.cpp
+C:\Users\st310-12\Desktop\shvets\pract11\resource.h(17,1): warning C4005: IDCANCEL: изменение макроопределения
+  (компиляция исходного файла "pract11.cpp")
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,1):
+  см. предыдущее определение "IDCANCEL"
+  
+  pract11.vcxproj -> C:\Users\st310-12\Desktop\shvets\pract11\x64\Debug\pract11.exe
